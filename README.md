@@ -12,6 +12,8 @@ Site published at: https://github.com/IevaSta/3-js-fakebook
 - JS;
 - API;
 
+- create: main usser's acc with profile picture and additional info from API; six ussers profiles and their activities info from API; activity room; search bar;
+
 ## Authors
 
 Ieva: [Github](https://github.com/IevaSta)
